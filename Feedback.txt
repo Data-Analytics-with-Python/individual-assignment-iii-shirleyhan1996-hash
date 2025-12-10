@@ -1,0 +1,7 @@
+
+Question 1: X only drops MntWines; it still includes other spending variables (e.g., MntFruits, MntMeatProducts, etc.),
+which should be excluded according to the instructions: -4,
+Does not report the corresponding best CV score: -1
+Question 2: o written comparison/interpretation discussing which model is better and why, beyond the numbers: -1,
+No textual interpretation of what the points above/below the line imply about the models’ relative performance: -2
+Total: 92/100
